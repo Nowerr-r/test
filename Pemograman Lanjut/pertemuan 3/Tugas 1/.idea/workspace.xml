@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07c18371-2ac3-4094-9dbb-d69ef50ffd40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../CodeLab1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CodeLab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CodeLab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CodeLab1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CodeLab1/CodeLab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Code Lab/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/CodeLab2/CodeLab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/CodeLab2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Tugas 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Tugas 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Tugas 2/src/InvalidNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Tugas 2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Tugas 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Tugas 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Tugas 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Tugas 4/src/MinFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 1/Tugas 4/src/MinFinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 2/src/TaxiTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 2/src/Tugas2/Operational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 2/src/Tugas2/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 2/src/Tugas2/TicketInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 2/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 3/src/CekUmurRefactoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/main/src/Tugas/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/main/src/Tugas2/Operational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pertemuan 2/main/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Remed/Remed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Remed/src/InvalidAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Remed/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../admin/admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../admin/src/perpustakaan/Anggota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../admin/src/perpustakaan/Buku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../admin/src/perpustakaan/Fiksi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../admin/src/perpustakaan/NonFiksi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../admin/src/perpustakaan/Peminjaman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/src/Dosen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/src/Orang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PBO_2G_Arief Alghifari/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../admin/src/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../admin/src/admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pertemuan 2/Tugas 1/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../admin/src/loginsystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../admin/src/mahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/src/Mahasiswa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="34Ukpi5CasehVCNUyHptuIVsLov" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/PBO_Arief Aghifari_284/Pemograman Lanjut/pertemuan 3/Tugas 1/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07c18371-2ac3-4094-9dbb-d69ef50ffd40" name="Changes" comment="" />
+      <created>1761275871466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761275871466</updated>
+    </task>
+    <servers />
+  </component>
+</project>
